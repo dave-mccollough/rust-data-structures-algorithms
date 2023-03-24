@@ -1,2 +1,3 @@
-# rust-data-structures-algorithms
-Data structures and algorithms in Rust
+# Data structures and algorithms in Rust
+
+
